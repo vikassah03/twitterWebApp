@@ -1,0 +1,40 @@
+.exploreright{
+    width: 100%;
+    height: 100%;
+}
+.who_Follow{
+    width: 90%;
+    margin: auto;
+}
+.follow_ids2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 90%;
+    height:70px;
+}
+.follow_ids1{
+ width: 100%;
+}
+
+.follow_ids1:hover{
+    background-color: rgb(231, 226, 226)
+}
+.img_id{
+    display: flex;
+}
+.id_name{
+    margin: 0%;
+}
+.id_tag{
+    margin: 2px;
+}
+.right_id_img{
+    width: 40px;
+    height: 40px;
+}
+.btn_of_follow_E{
+    width: 20%;
+    height:40%;
+}

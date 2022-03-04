@@ -1,0 +1,50 @@
+.Explore{
+    display: flex;
+    width: 100%;
+    border-right:1px solid rgb(223, 227, 228);
+    height: 100%;
+}
+.applinkE{
+    width: 23%;
+}
+.input_main{
+    width: 45%;
+    border-right:1px solid rgb(223, 227, 228);
+    height: 100%;
+}
+.input{
+    width: 85%;
+}
+.input_setting{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 96%;
+    height: 10%;
+    margin: auto;
+    /* border: 1px solid black; */
+    
+}
+.Right_E_main{
+    margin:1% auto;
+    border-radius: 20px;
+    width: 30%;
+    background-color: rgb(245, 249, 250);
+}
+.right_E{
+    
+    width: 90%;
+    margin: 3% auto;
+    border-radius: 20px;
+   
+}
+.setting_img{
+    width: 19px;
+    height: 19px;
+}
+.tabs{
+    display: flex;
+    justify-content:space-around;
+    width: 98%;
+    margin: auto;
+}

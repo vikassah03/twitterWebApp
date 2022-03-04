@@ -1,0 +1,27 @@
+.tabs_N{
+    display: flex;
+    align-items: center;
+    margin:auto;
+    width: 100%;
+}
+.N_icans{
+    display: flex;
+    align-items: center;
+}
+
+.tab_N:hover{
+  background-color: rgb(231, 226, 226);
+}
+
+.tab_N{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    width: 50%;
+    margin-top:2%;
+}
+
+.hr_N{
+    margin: 0%;
+}

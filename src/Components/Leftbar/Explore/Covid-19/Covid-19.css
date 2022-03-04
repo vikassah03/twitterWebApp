@@ -1,0 +1,10 @@
+.perent_covid-19_tab{
+    height: 100%;
+    width: 100%;
+    /* position: relative; */
+}
+.Text_on_covid_img{
+    color: rgb(252, 248, 248);
+    margin-top:-10% ;
+    position: absolute;
+}

@@ -1,0 +1,57 @@
+.main_L{
+display: flex;
+    width: 100%;
+    border-right:1px solid rgb(223, 227, 228);
+    height: 100%;
+}
+.leftbar_L{
+    width: 23%;
+}
+.middle_L{
+    border-right:1px solid rgb(223, 227, 228);
+
+    width: 45%;
+}
+.middle_L_second{
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+}
+.icon_text{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 45%;
+}
+.image_L_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 30px;
+    height: 30px;
+    border-radius:50px;
+    height: 30px;
+}
+.icons_L{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 15%;
+}
+.image_L{
+    width: 17px;
+    height: 17px;
+}
+.image_L_main:hover{
+    text-emphasis:back;
+    background-color:rgb(208, 208, 214) ;
+}
+.pinned_lists{
+    width: 90%;
+    height: 10%;
+    margin: 5% auto;
+}
+.pinned_lists_below_text{
+    width: 90%;
+    margin:0 0 7% auto;
+}

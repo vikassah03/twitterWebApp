@@ -1,0 +1,47 @@
+.tabs{
+    display: flex;
+    width: 100%;
+}
+.for_u_image{
+    width: 100%;
+    height: 100%;
+}
+.tab-content{
+    width: 100%;
+    height: 100%;
+}
+.hover_D:hover{
+    background-color: rgb(231, 226, 226);
+}
+.hover_D:hover{
+    background-color: rgb(231, 226, 226);
+
+}
+.caption{
+    margin:0%;
+}
+/* .tab_E{
+    display: flex;
+    justify-content: space-around;
+    width: 16.50%;
+} */
+.tabs_Explore_name{
+   margin-left: 13px;
+   margin-right: 13px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.tab_E1:hover{
+    background-color: rgb(241, 241, 241);
+}.tab_E2:hover{
+    background-color: rgb(241, 241, 241);
+}.tab_E3:hover{
+    background-color: rgb(241, 241, 241);
+}.tab_E4:hover{
+    background-color: rgb(241, 241, 241);
+}.tab_E5:hover{
+    background-color: rgb(241, 241, 241);
+}.tab_E6:hover{
+    background-color: rgb(241, 241, 241);
+}
+

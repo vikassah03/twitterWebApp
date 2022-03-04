@@ -1,0 +1,15 @@
+.notification_N_i{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 95%;
+        margin: 2% auto;
+        /* height: 100%; */
+}
+.notication{
+        margin:3px;
+}
+.h1_p{
+        width: 70%;
+        margin: auto;
+}

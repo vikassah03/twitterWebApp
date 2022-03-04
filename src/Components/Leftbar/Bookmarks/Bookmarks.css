@@ -1,0 +1,26 @@
+.main_B{
+    display: flex;
+    width: 100%;
+    border-right:1px solid rgb(223, 227, 228);
+    height: 100%;
+}
+.leftbar_B{
+    width: 23%;
+    height: 100%;
+}
+.texts_B{
+    border-right:1px solid rgb(223, 227, 228);
+    margin-top: 2%;
+    width: 45%;
+}
+.middle_B{
+    width: 95%;
+    margin: -3% auto;
+}
+.text_B{
+    width: 50%;
+    margin: 10% auto;
+}
+.margin0_B{
+    margin: 0;
+}

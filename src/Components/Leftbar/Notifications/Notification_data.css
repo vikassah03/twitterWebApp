@@ -1,0 +1,18 @@
+.N_icans{
+    display: flex;
+    justify-content: space-around;
+    width: 17%;
+}
+.margin_0{
+    margin: 0%;
+}
+.N_icans_data:hover{
+    background-color: rgb(241, 241, 241);
+    }
+    .data_n{
+        width: 80%;
+        margin: auto;
+    }
+.hr_N{
+    margin: 0%;
+}
